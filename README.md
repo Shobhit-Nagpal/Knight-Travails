@@ -1,5 +1,5 @@
 # Knight-Travails
-Knight Travails is a project under the CSE section of The Odin Project.
+Knight Travails is a project under the CSE section of <a href="https://www.theodinproject.com/">The Odin Project</a>.
 
 The goal of the project was to find the shortest path a knight can take to get from its starting position to the destination position.
 
