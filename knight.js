@@ -77,8 +77,11 @@ const knightMoves = (start, destination) => {
 
     //call BFS algorithm here
     const path = BFS(start,destination);
+
+    console.log(`You've made it in ${path.length - 1} moves\n`);
+    console.log(path);
     return path;
 
 }
 
-console.log(knightMoves([0,0], [7,7]));
+knightMoves([0,0], [7,7]);
